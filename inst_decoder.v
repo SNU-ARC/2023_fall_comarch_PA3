@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------
 
-4190.308-002 Computer Architecture
+4190.308-001 Computer Architecture
 
 Instructor: Prof. Jae W. Lee (jaewlee@snu.ac.kr)
 
