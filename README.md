@@ -34,4 +34,7 @@ and the read is in the second half, so the read delivers what is written
 1) sample test bench : sample1.dat, sample2.dat, sample3.dat, sample4.dat
 2) evaulation test bench : branch.dat, dhazard.dat, perf1.dat, perf2.dat, perf3.dat
 
+3. Helper program (riscv-assembler.tar)
+- It converts code written in RISC-V assembly into binary format 
+
 For more detailed explanations, please refer to the provided materials related to PA3
